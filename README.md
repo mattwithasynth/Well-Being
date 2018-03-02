@@ -4,4 +4,4 @@
 
 ### Title: Well Being
 
-![Well Being Screenshot](/screenshot.png)
+![Well Being Screenshot](https://bitbucket.org/mattwithasynth/well-being/raw/master/screenshot.png)
