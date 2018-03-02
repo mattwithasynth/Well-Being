@@ -14,10 +14,10 @@
 
 ---
 
-[Preview Audio](https://bitbucket.org/mattwithasynth/well-being/raw/bb8b230c4adb334cf5a75c0382dfd437971923a3/WellBeingDemo.m4a "Preview Audio")
+[Preview Audio](WellBeingDemo.m4a "Preview Audio")
 
 ---
 
-![Well Being Screenshot](https://bitbucket.org/mattwithasynth/well-being/raw/master/screenshot_thumb.png)
+![Well Being Screenshot](screenshot_thumb.png)
 
-[View Full Size](https://bitbucket.org/mattwithasynth/well-being/raw/master/screenshot.png "Full Size")
+[View Full Size](screenshot.png "Full Size")
