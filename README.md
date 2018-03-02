@@ -4,5 +4,5 @@
 
 ### Title: Well Being
 
-![Well Being Screenshot](assets/images/screenshot.png)
+![Well Being Screenshot](assets/screenshot.png)
 
