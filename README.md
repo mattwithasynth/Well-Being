@@ -4,4 +4,4 @@
 
 ### Title: Well Being
 
-![Well Being Screenshot](mattwithasynth/screenshot.png)
+![Well Being Screenshot](well-being/screenshot.png)
