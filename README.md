@@ -14,10 +14,10 @@
 
 ---
 
-[Preview Audio](WellBeingDemo.m4a "Preview Audio")
+[Preview Audio](/assets/audio/WellBeingDemo.m4a "Preview Audio")
 
 ---
 
-![Well Being Screenshot](screenshot_thumb.png)
+![Well Being Screenshot](/assets/images/screenshot_thumb.png)
 
-[View Full Size](screenshot.png "Full Size")
+[View Full Size](/assets/images/screenshot.png "Full Size")
