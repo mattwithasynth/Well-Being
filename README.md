@@ -1,10 +1,11 @@
-# MWAS Music Project
+# MWAS Music Project: Well Being
 
 ---
 
 ### Details
 
 **Title:** Well Being
+
 **Duration:** 1m 17s (00:01:17)
 
 [Download Audio Demo](https://bitbucket.org/mattwithasynth/well-being/raw/bb8b230c4adb334cf5a75c0382dfd437971923a3/WellBeingDemo.m4a "Audio Demo")
