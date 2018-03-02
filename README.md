@@ -21,3 +21,5 @@
 ![Well Being Screenshot](/assets/images/screenshot_thumb.png)
 
 [View Full Size](/assets/images/screenshot.png "Full Size")
+
+[View the Creative Commons Attribution 4.0 International License](LICENSE "License Details")
