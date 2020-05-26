@@ -8,6 +8,8 @@
 
 **Duration:** 1m 17s (00:01:17)
 
+**Tempo:** 87 bpm
+
 **Format:** Logic Pro X
 
 **External Plugins Required:** None
@@ -18,8 +20,9 @@
 
 ---
 
-![Well Being Screenshot](/assets/images/screenshot_thumb.png)
+![Screenshot](/Well%20Being.logicx/Alternatives/000/WindowImage.jpg)
 
-[View Full Size](/assets/images/screenshot.png "Full Size")
+[View Full Size](/Well%20Being.logicx/Alternatives/000/WindowImage.jpg "Full Size")
+
 
 [View the Creative Commons Attribution 4.0 International License](LICENSE "License Details")

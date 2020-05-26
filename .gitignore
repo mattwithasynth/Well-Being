@@ -1,2 +1,5 @@
 *.undo
+*.displayData
+*.eventData
+*.songData
 
